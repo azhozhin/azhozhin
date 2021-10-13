@@ -4,7 +4,7 @@
 
 - 📫 How to reach me ... WIP
 
-- You can read my blog about technologies: [zhozhin.com](https://zhozhin.com/?utm_source=github&utm_medium=web&utm_campaign=github-profile)
+- You can read my blog about technologies: [zhozhin.com](https://zhozhin.com?utm_source=github&utm_medium=profile&utm_campaign=github-profile)
 
 <!---
 azhozhin/azhozhin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
