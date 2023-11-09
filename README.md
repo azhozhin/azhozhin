@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrei Zhozhin
 - 👀 I’m interested in technologies
-- 🌱 I’m currently learning blockchain/etherium
+- 🌱 I’m currently learning AI/ML
 
 - 📫 How to reach me ... WIP
 
